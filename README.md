@@ -1,5 +1,5 @@
 # MathGuru
 arithmetic simulator /  арифметический тренажер
 
-##Ru
+Ru
 MathGuru - арефметический тренажер
