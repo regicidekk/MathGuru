@@ -1,5 +1,7 @@
 # MathGuru
 arithmetic simulator /  арифметический тренажер
+https://regicidekk.github.io/MathGuru/
 
 ## Ru
-MathGuru - арефметический тренажер
+MathGuru - [RU]арифметический тренажер, предназначен для улучшения навыков арифметики
+[ENG]Arithmetic trainer designed to improve arithmetic skills.
