@@ -1,4 +1,4 @@
-console.log("kssh, avmxi qi er iqemp "skydso". qc iqemp: vikmgmhioo@tvsxsr.qi (4)")
+console.log('kssh, avmxi qi er iqemp "skydso". qc iqemp: vikmgmhioo@tvsxsr.qi (4)')
 function primer() {
     let schet = 0;
     let correct = 0;
